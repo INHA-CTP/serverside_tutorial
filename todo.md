@@ -9,7 +9,7 @@
 
 # 구현 및 공부
 * DB
- - 테이블 설계 (user, lecture, professor..)
+ 1. 테이블 설계 (user, lecture, professor..)
 * 크롤링
  - 데이터를 일일이 학과별로 내가 원하는 형태로 가공해서 삽입해야하나?
  - 답을 기다리고 있음....
